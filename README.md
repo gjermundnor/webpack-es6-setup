@@ -1,4 +1,4 @@
-# Basic Webpack config with ES6 setup
+# Basic Webpack config with React ES6 setup
 Just a really basic setup to get started. 
 Made for personal use and preferences, but free for anyone to clone and use.
 
